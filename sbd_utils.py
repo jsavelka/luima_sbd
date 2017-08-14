@@ -88,15 +88,15 @@ def create_token_sig(token):
     digit = re.compile(r'\d')
     lower_char = re.compile(r'[a-z]')
     upper_char = re.compile(r'[A-Z]')
-    # ws = re.compile(r'^[ \t\f\v]]+$')
-    # linebreaking_ws = re.compile(r'^[\n\r]+$')
+    ws = re.compile(r'^[ \t\f\v]]+$')
+    linebreaking_ws = re.compile(r'^[\n\r]+$')
     token = lower_char.sub('c', token)
     token = upper_char.sub('C', token)
     token = digit.sub('D', token)
-    # if ws.match(token):
-    #     token = 'hws'
-    # if linebreaking_ws.match(token):
-    #     token = 'vws'
+    if ws.match(token):
+        token = 'hws'
+    if linebreaking_ws.match(token):
+        token = 'vws'
     return token
 
 
