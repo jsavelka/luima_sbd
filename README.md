@@ -23,5 +23,7 @@ python3 luima_sbd.py -f ./data/example.txt
 python3 luima_sbd.py -p 5555
 ```
 
+There is an example request to the service in *example_request.py*.
+
 ## Integrate into Python code
 Simply copy the *sbd_utils.py* to your project and import it.
