@@ -1,5 +1,5 @@
 # Tokenization
-TOKENIZATION_STRING = r'[A-z]+|\d+|\s+|[^A-z\d\s]'
+TOKENIZATION_STRING = r'[A-z]+|\d+|[ \t\f\v]+|[\n\r]+|[^A-z\d\s]'
 
 # File paths
 DATA_DIR = 'data'
