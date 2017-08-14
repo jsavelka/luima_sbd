@@ -29,22 +29,21 @@ def tokens2preds(tokens):
     features = [word2features(tokens, i, config.CRF_WINDOW) for i, token
                 in enumerate(tokens)]
     # sen tagging
-    # sen_tagger = init_crf_model(config.SEN_MODEL)
-    # sen_tags = sen_tagger.tag(features)
+    sen_tagger = init_crf_model(config.SEN_MODEL)
+    sen_tags = sen_tagger.tag(features)
 
     # nsen tagging
-    # nsen_tagger = init_crf_model(config.NSEN_MODEL)
-    # nsen_tags = nsen_tagger.tag(features)
+    nsen_tagger = init_crf_model(config.NSEN_MODEL)
+    nsen_tags = nsen_tagger.tag(features)
 
     # integrating tagging
-    # features_x = [word2features(tokens, i, config.CRF_WINDOW,
-    #                             [sen_tags, nsen_tags])
-    #               for i, token
-    #               in enumerate(tokens)]
-    # int_tagger = init_crf_model(config.INTEGRATING_MODEL)
+    features_x = [word2features(tokens, i, config.CRF_WINDOW,
+                                [sen_tags, nsen_tags])
+                  for i, token
+                  in enumerate(tokens)]
+    int_tagger = init_crf_model(config.INTEGRATING_MODEL)
 
-    tagger = init_crf_model(config.SIMPLE_MODEL)
-    return tagger.tag(features)
+    return int_tagger.tag(features_x)
 
 
 def word2features(doc, i, n, extras=None):
