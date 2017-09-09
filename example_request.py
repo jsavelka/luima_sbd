@@ -1,9 +1,15 @@
+import chardet
 import requests
 
 
 url = 'http://127.0.0.1:5000/segment'
 payload = {'text': ''}
-with open('./data/example.txt') as f:
+file_name = './data/example.txt'
+
+raw = open(file_name, 'rb').read()
+enc = chardet.detect(raw)['encoding']
+
+with open(file_name, mode='r', encoding=enc) as f:
     payload['text'] = f.read()
 
 r = requests.post(url, data=payload)

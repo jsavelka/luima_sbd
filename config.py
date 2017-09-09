@@ -15,4 +15,4 @@ CRF_WINDOW = 3
 PRINT_SEP = "-----sep-----"
 
 # Flask server params
-DEFAULT_PORT = 5005
+DEFAULT_PORT = 5000

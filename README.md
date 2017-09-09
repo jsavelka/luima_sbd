@@ -4,10 +4,12 @@
 * Python 3
 * python-crfsuite
 * flask
+* chardet
 
 ```
 sudo pip3 install python-crfsuite
 sudo pip3 install Flask
+sudo pip3 install chardet
 ```
 
 
