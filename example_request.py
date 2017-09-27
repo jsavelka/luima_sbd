@@ -2,7 +2,8 @@ import chardet
 import requests
 
 
-url = 'http://127.0.0.1:5000/segment'
+url = 'http://127.0.0.1:5000/sentences'
+# url = 'http://127.0.0.1:5000/offsets'
 payload = {'text': ''}
 file_name = './data/example.txt'
 

@@ -5,24 +5,36 @@ import re
 import os
 
 
-def text2sentences(text):
+def text2sentences(text, offsets=False):
     tokenizer = re.compile(config.TOKENIZATION_STRING)
-    tokens = [token.group() for token in tokenizer.finditer(text)]
-    preds = tokens2preds(tokens)
-    return preds2sentences(tokens, preds)
+    matches = [match for match in tokenizer.finditer(text)]
+    preds = tokens2preds([match.group() for match in matches])
+    indices = preds2sentences(matches, preds)
+    if offsets:
+        return indices
+    else:
+        return [text[indice[0]:indice[1]] for indice in indices]
 
 
-def preds2sentences(tokens, preds):
-    sentences = []
-    sentence = ''
-    for i, pred in enumerate(preds):
-        if pred != 'O':
-            sentence += tokens[i]
+def preds2sentences(matches, preds):
+    indices = []
+    in_annotation = False
+    start, end = (0, 0)
+    for label, match in zip(preds, matches):
+        if label != 'O':
+            if in_annotation:
+                end = match.end()
+            else:
+                in_annotation = True
+                start = match.start()
+                end = match.end()
         else:
-            sentences.append(sentence)
-            sentence = ''
-    sentences.append(sentence)
-    return sentences
+            if in_annotation:
+                in_annotation = False
+                indices.append((start, end))
+    if in_annotation:
+        indices.append((start, end))
+    return indices
 
 
 def tokens2preds(tokens):
