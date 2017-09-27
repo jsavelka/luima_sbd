@@ -32,5 +32,5 @@ get sentence offsets instead of sentences.
 ## Integrate into Python code
 Copy this project directory to your project and import *sbd_utils.py*. From
 there you can call the *text2sentences(text, offsets=False)* function which
-expects a text as an argument. Setting the optional *offsets" argument to
+expects a text as an argument. Setting the optional *offsets* argument to
 *True* indicates that you would like sentence offsets instead of the sentences.
