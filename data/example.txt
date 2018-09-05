@@ -1,112 +1,93 @@
-Citation Nr: 1719152
-Decision Date: 05/31/17    Archive Date: 06/06/17
+Citation Nr: 1716780
+Decision Date: 05/17/17    Archive Date: 05/22/17
 
-DOCKET NO.  11-22 763	)	DATE
+DOCKET NO.  08-01 475	)	DATE
 	)
 	)
 
 On appeal from the
-Department of Veterans Affairs Regional Office in Buffalo, New York
+Department of Veterans Affairs Regional Office in Montgomery, Alabama
 
 
-THE ISSUES
+THE ISSUE
 
-1.  Entitlement to service connection for right carpal tunnel syndrome.
+Entitlement to service connection for an acquired psychiatric disorder, to include schizophrenia.
 
-2.  Entitlement to service connection for left carpal tunnel syndrome.
+
+REPRESENTATION
+
+Veteran represented by:	Disabled American Veterans
+
+
+WITNESSES AT HEARING ON APPEAL
+
+Veteran and B. G., a friend of the Veteran
 
 
 ATTORNEY FOR THE BOARD
 
-D. M. Donahue Boushehri, Counsel
-
+M. M. Lunger, Associate Counsel
 
 INTRODUCTION
 
-The Veteran served on active duty from June 1988 to August 1994.
+The Veteran served on active duty from July 1973 to July 1978.
 
-The issues of entitlement to entitlement to service connection for right and left carpal tunnel syndrome came to the Board of Veterans Appeals' (Board) on appeal from a June 2012 rating decision of the Department of Veterans Affairs (VA) Regional Office in Buffalo, New York (RO).
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a November 2008 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Montgomery, Alabama.
 
-In a September 2014 decision, the Board reopened issue of entitlement to service connection for right carpal tunnel syndrome, and remanded the issues of entitlement to service connection for right and left carpal tunnel syndrome for additional development.  At that time, entitlement to a total disability rating due to individual unemployability (TDIU) was also on appeal.  Entitlement to TDIU was granted in September 2014.  To date, the Veteran has not expressed disagreement with this decision and, as such, the issue of entitlement to TDIU is no longer on appeal.
+In April 2011, the Veteran testified at a hearing before the undersigned Veterans Law Judge (VLJ).  A transcript of the hearing is associated with the claims file.
 
-Following the last supplemental statement of the case in December 2015, new evidence, in the form of VA treatment records, has been associated with the Veteran's claims folder unaccompanied by a waiver of local consideration.  See 38 C.F.R. §§ 19.9, 20.1304(c) (2016).  However, as this evidence is either not relevant to the claims being decided or is duplicative of evidence already associated with the claims file, the Board may proceed to adjudicate the claims with no prejudice to the Veteran.
+The matter was previously remanded by the Board in August 2011, April 2014 and January 2016, when it was remanded for additional development.  The case has been returned to the Board for further appellate review.
 
 
 FINDING OF FACT
 
-Right and left carpal tunnel syndrome was not manifested during service or otherwise related to service.
+The Veteran's schizophrenia had onset during his active service.
 
 
-CONCLUSIONS OF LAW
+CONCLUSION OF LAW
 
-1.  The criteria for service connection for right carpal tunnel syndrome have not been met.  38 U.S.C.A. §§ 1101, 1110, 1131, 5103, 5103A, 5107 (West 2014); 38 C.F.R. § 3.159, 3.303 (2016).
-
-2.  The criteria for service connection for left carpal tunnel syndrome have not been met.  38 U.S.C.A. §§ 1101, 1110, 1131, 5103, 5103A, 5107 (West 2014); 38 C.F.R. § 3.159, 3.303 (2016).
+The criteria for service connection for schizophrenia have been met.  38 U.S.C.A. §§ 1110, 1131, 5107 (West 2014); 38 C.F.R. § 3.303 (2016).
 
 
 REASONS AND BASES FOR FINDING AND CONCLUSION
 
-I.  Duty to Assist
+As the Board is granting service connection for schizophrenia, which constitutes a full grant of the benefit sought on appeal, a discussion of VA's duties to notify and assist is not required.
 
-The requirements of 38 U.S.C.A. §§ 5103 and 5103A have been met.  There is no issue as to providing an appropriate application or the completeness of the application.  By correspondence dated in October 2010, VA advised the Veteran of the information and evidence needed to substantiate a claim.  The letter provided notice of what part of that evidence is to be provided by the claimant, and what part VA will attempt to obtain.  The Veteran was also provided information regarding the assignment of disability ratings and effective dates.
+Service connection may be established for disability resulting from personal injury suffered or disease contracted in the line of duty, or for aggravation of a preexisting injury suffered or disease contracted in line of duty, in the active military, naval, or air service.  38 U.S.C.A. §§ 1110, 1131.  Service connection may also be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).
 
-VA has also satisfied its duty to assist as to these issues.  The electronic claims folder contains service treatment records, private medical records, a July 2015 VA examination, and a December 2015 VA opinion.  No additional pertinent records are shown to be available, and the Veteran does not argue otherwise.  After review of the examination of record regarding the wrists, the Board finds that the VA examiner provided an adequate opinion based on a correct factual basis.
+To establish service connection for a disability resulting from a disease or injury incurred in service, or to establish service connection based on aggravation in service of a disease or injury which pre-existed service, there must be (1) competent evidence of the current existence of the disability for which service connection is being claimed; (2) competent evidence of incurrence or aggravation of a disease or injury in active service; and (3) competent evidence of a nexus or connection between the current disability and the disease or injury incurred or aggravated in service.  Horn v. Shinseki, 25 Vet. App. 231, 236 (2010); Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. Sept. 14, 2009); cf. Gutierrez v. Principi, 19 Vet. App. 1, 5 (2004) (citing Hickson v. West, 12 Vet. App. 247, 253 (1999)).  In many cases, medical evidence is required to meet the requirement that the evidence be "competent."  However, when a condition may be diagnosed by its unique and readily identifiable features, the presence of the disorder is not a determination "medical in nature" and is capable of lay observation.  Barr v. Nicholson, 21 Vet. App. 303, 309 (2007).
 
-The agency of original jurisdiction (AOJ) substantially complied with the September 2014 remand orders, namely obtaining an additional VA examination.  See D'Aries v. Peake, 22 Vet. App. 97, 106 (2008); Dyment v. West, 13 Vet. App. 141, 146-47 (1999) (remand not required under Stegall v. West, 11 Vet. App. 268 (1998), where the Board's remand instructions were substantially complied with), aff'd, Dyment v. Principi, 287 F.3d 1377 (2002).  The Veteran underwent an additional VA examination in July 2015, and an additional opinion was obtained in December 2015.  A supplemental statement of the case was issued in December 2015.
+In rendering a decision on appeal, the Board must analyze the credibility and probative value of the evidence, account for the evidence which it finds to be persuasive or unpersuasive, and provide the reasons for its rejection of any material evidence favorable to the claimant.  See Gabrielson v. Brown, 7 Vet. App. 36, 39-40 (1994); Gilbert v. Derwinski, 1 Vet. App. 49, 57 (1990).  When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the benefit of the doubt shall be given to the claimant.  38 U.S.C.A. § 5107(b).  When a reasonable doubt arises regarding service origin, such doubt will be resolved in the favor of the claimant.  Reasonable doubt is doubt which exists because of an approximate balance of positive and negative evidence which does not satisfactorily prove or disprove the claim.  38 C.F.R. § 3.102.  The question is whether the evidence supports the claim or is in relative equipoise, with the claimant prevailing in either event, or whether a fair preponderance of the evidence is against the claim, in which event the claim must be denied.  See Gilbert, 1 Vet. App. at 54.
 
-All necessary development has been accomplished, and therefore appellate review may proceed without prejudice to the Veteran.  See Bernard v. Brown, 4 Vet. App. 384 (1993).
+The Veteran seeks service connection for a psychiatric disorder.  He asserts that the symptoms of nervousness and anxiety he experienced in service were manifestations of an acquired psychiatric disorder.
 
+The Veteran's service treatment records (STRs) reflect treatment in September and October 1974 for complaints of his "whole body falling asleep[,]" as well as numbness and tingling in his hands and toes.  A March 1976 entry indicates the Veteran's mother referred him due to behavior he was exhibiting while at home - staying out most of the night, never staying still and stating he has a crawling sensation under his scalp.  In April 1976, the Veteran was evaluated and the clinician noted that his scores were of questionable validity.  The Veteran appeared to be confused and was asking for help.  The clinician noted that the Veteran had multiple problems but it was hard to determine a specific diagnosis due to confused test results.  The clinician stated "[b]est guess is borderline leaning toward Schiz.  Consider possible drug abuse."  The Veteran's service personnel records also indicate he was subjected to a court martial in May 1978 due to a physical altercation he was involved in with his captain.
 
-II.  Service Connection
+The Veteran's post-service VA medical treatment records show a diagnosis of schizophrenia in December 2006.  At that time, the Veteran reported he was violent and experienced outbursts approximately once a year.  The Veteran reported an incident where he had hit someone in the head with a bat and was taken to jail.  He also stated that while he was in service, he body slammed his captain.
 
-Rules and Regulations
+During his April 2011 Board hearing, the Veteran testified that he was treated for nervousness in service and that following service he continued to experience mental health issues, but did not seek treatment.  He testified that he was diagnosed with schizophrenia in 2005.
+The Veteran underwent a VA mental disorders examination in September 2011.  The accompanying opinion, as well as the subsequent opinions obtained in June 2014 and January 2016, was deemed inadequate by the Board.  These inadequate, negative nexus opinions failed to consider the Veteran's lay statements regarding his in-service and post-service symptoms and failed to address his self-reported violent behavior.  Notably, these opinions relied on the absence of treatment for psychiatric symptoms for several years following the Veteran's discharge from service and the fact that he was not diagnosed with schizophrenia until 2006 in finding that the Veteran's schizophrenia was not related to his active service.
 
-Service connection may be granted for a disability resulting from a disease or injury incurred in, or aggravated by, active service.  See 38 U.S.C.A. §§ 1131 (West 2014); 38 C.F.R. § 3.303(a) (2016).  In order to establish a right to compensation for a present disability, a Veteran must show three things: 1) the existence of a present disability; 2) an in-service incurrence or aggravation of a disease or injury; and 3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service.  Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004); Caluza v. Brown, 7 Vet. App. 498, 506 (1995), aff'd per curiam, 78 F.3d 604 (Fed. Cir. 1996) [table].
+Therefore the Board requested an opinion from a Veterans Health Administration (VHA) specialist in February 2017 as to whether it is at least as likely as not that the Veteran's current diagnosis of a psychiatric disorder, to include schizophrenia had is onset during service, or is otherwise related to the Veteran's service, including his reports of in-service nervousness and an evaluation for a nervous condition, and his lay statements regarding violent behavior in service.  An opinion was provided in May 2017 by a VA psychologist who conducted a thorough review of the Veteran's electronic file in conjunction with rendering the requested opinion.  The VHA specialist noted that the Veteran's service treatment records document that the Veteran was seen for mental health symptoms on several occasions during service.  The examiner noted that the Veteran's complaints of feeling numbness, tingling and crawling sensations "may well have reflected the presence of tactile hallucination(s), one of the positive symptoms of Schizophrenia Spectrum Disorders."  The examiner also noted that the STRs reflect the Veteran's reports of heavy drinking of alcohol in service and stated that it is not uncommon for individuals, who for the first time, are experiencing the symptoms of a psychotic disorder to use alcohol and/or other substances in an attempt to self-medicate.  Additionally, the examiner acknowledged the incident in service which resulted in the Veteran's court martial proceedings - the Veteran's violent behavior toward his superior commissioned officer.  The VHA specialist stated that incidents such as these "are consonant with decline in functioning frequently seen in persons with serious mental illnesses such as Schizophrenia and Schizophrenia Spectrum and other Psychotic Disorder."
 
-Service connection may also be granted for a disability that is proximately due to, or the result of, a service-connected disease or injury.  38 C.F.R. § 3.310(a) (adding that "[w]hen service connection is thus established for a secondary condition, the secondary condition shall be considered a part of the original condition").  Additionally, service connection may be established by the degree of disability resulting from aggravation of a nonservice-connected disability by a service-connected disability.  See 38 C.F.R. § 3.310(b); see also Allen v. Brown, 7 Vet. App. 439, 448 (1995).
+As discussed above, the Board previously determined that the September 2011, June 2014 and January 2016 VA opinions were inadequate in part because the VA examiners relied on the Veteran's lack of treatment for psychiatric symptoms until many years after his discharge from service and did not consider the Veteran's lay statements regarding his symptoms.
 
-In making all determinations, the Board must fully consider the lay assertions of record.  A layperson is competent to report on the onset and continuity of his or her current symptomatology.  See Layno v. Brown, 6 Vet. App. 465, 470 (1994) (a Veteran is competent to report on that of which he or she has personal knowledge).  Lay evidence can also be competent and sufficient evidence of a diagnosis or to establish etiology if: 1) the layperson is competent to identify the medical condition; 2) the layperson is reporting a contemporaneous medical diagnosis; or 3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional.  Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009); Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir. 2007).  When considering whether lay evidence is competent the Board must determine, on a case by case basis, whether the Veteran's particular disability is the type of disability for which lay evidence may be competent.  Kahana v. Shinseki, 24 Vet. App. 428 (2011).
+The Board finds the May 2017 VHA medical expert opinion that the symptoms the Veteran experienced in service were at least as likely as not early manifestations of the Veteran's currently diagnosed schizophrenia was well reasoned and thoroughly considered the Veteran's complete medical history.  The VHA specialist opined after reviewing the medical records that it is as least as likely as not that the symptoms the Veteran experienced in service were early manifestations of schizophrenia.  This opinion is afforded high probative value.  See Prejean v. West, 13 Vet App. 444, 448-9 (2000) (a factor for assessing the probative value of a medical opinion includes the thoroughness and detail of the opinion).
 
-Reasonable doubt concerning any matter material to the determination is resolved in the Veteran's favor.  38 U.S.C.A. § 5107(b); 38 C.F.R. § 3.102.
-
-Factual Background and Analysis
-
-Service treatment records (STRs) include July 1987 medical history and physical examination reports which fail to show any complaints or diagnosis of a bilateral wrist disorder.  In a January 1989 STR, the Veteran complained aches in all her joints including her wrists and fingers.  Physical examination showed no obvious deformity.  She had full range of motion of the arms.  The examiner noted "? multiple joint complaints."  During a February 1989 follow-up, the Veteran continued to complain of body achiness.  The examiner noted unknown etiology of aches.  A consultation was suggested with rheumatology for possible fibromyalgia.  In dental health questionnaires dated in June 1989, May 1992, and May 1993, the Veteran denied painful joints.  In a dental health questionnaire dated in January 1994, the Veteran complained of painful joints.  In an October 1992 separation medical history report, the Veteran complained of swollen or painful joints.  The examiner noted a diagnosis of chondromalacia.  An October 1992 separation physical examination noted upper extremities as normal.
-
-During a November 1994 VA examination, the examiner noted the Veteran fell in service and injured her right wrist.  She complained of arthralgia of all joints, which is aggravated by cold, wet weather.  She reported she is right-handed.  Upon physical examination, the examiner noted tenderness over the right carpal tunnel.  Range of motion of the left wrist was noted as 60 degrees dorsiflexion and 80 degrees palmar flexion.  Range of motion of the right wrist was noted as dorsiflexion to 70 degrees, and palmar flexion to 80 degrees.  The diagnosis was right carpal tunnel syndrome.
-
-In an August 2010 VA treatment record, the examiner referred to an EMG nerve conduction study dated in June 2010 which showed mild median neuropathy at the left wrist only.  The Veteran reported numbness and tingling in both wrists.  The assessment was carpal tunnel syndrome mostly in the left hand, but with bilateral symptoms.
-
-In February and March 2013 VA progress notes, the Veteran complained of pain in her wrists.
-
-During a July 2015 VA examination, the examiner noted negative findings of Phalen's sign and Tinel's sign tests.  Additionally, vibration and pinprick testing of the bilateral upper extremities were intact.  The examiner indicated that there was no evidence of treatment for carpal tunnel syndrome.  The examiner determined a diagnosis of a chronic disability was not established.  However, the examiner also indicated that the Veteran's STRs were not available for review.
-
-A December 2015 VA opinion indicated the claims file, including the STRs, was reviewed.  The examiner referred to the Veteran's complaints of joints pains in service.  The examiner also noted the Veteran was referred to rheumatology at that time and given a presumptive diagnosis of fibromyalgia, but the remainder of the Veteran's STRs, including, but not limited to, separation examination are silent for continued, chronic treatment of fibromyalgia.  The examiner also referred to the June 2010 EMG report in which the Veteran reported numbness of the bilateral hands for a few months.  She stated the tingling sensation involved the front and back of the hands and all 5 digits.  She reported an old neck injury from a motor vehicle accident 20 years prior.  The report showed evidence of a very mild median neuropathy across the left wrist.  The examiner indicated that review of the STRs fail to show diagnosis or treatment for a chronic disability with regard to carpal tunnel syndrome (median neuropathy) of either upper extremity during active military service.  The review of current medical literature is silent for any mechanism by which lumbosacral or cervical strain, inflammation of the sciatic nerves, limited extension of the thigh, limited extension of the knee, limited motion of the jaw, or major depressive disorder may cause or aggravated carpal tunnel syndrome.  The Veteran's left carpal tunnel syndrome diagnosed in 2010 is a stand-alone entity, neither due to nor aggravated by active military service or any other service-connected disabilities.
-
-After a review of the evidence, the Board finds that the preponderance of evidence weighs against the Veteran's claims of entitlement to service connection right and left carpal tunnel syndrome.
-
-On the right, the Board notes that there is no current diagnosis of right carpal tunnel syndrome.  Although the November 1994 VA examination included a diagnosis of right carpal tunnel syndrome, the June 2010 EMG report only showed carpal tunnel syndrome on the left.  A July 2015 VA examiner also found no evidence of carpal tunnel syndrome on either side.  In the absence of proof of a current disability, there can be no valid claim for service connection.  Boyer v. West, 210 F.3d 1351, 1353 (Fed. Cir. 2000); Giplin v. West, 155 F.3d 1353 (Fed. Cir. 1998); Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992) (indicating service connection presupposes a current diagnosis of the condition claimed).  The requirement that a current disability be present is satisfied 'when a claimant has a disability at the time a claim for VA disability compensation is filed or during the pendency of that claim...even though the disability resolves prior to the Secretary's adjudication of the claim.'  McClain v. Nicholson, 21 Vet. App. 319 (2007); see also Romanowsky v. Shinseki, 26 Vet. App. 289 (2013).
-
-On the left, the Board finds the probative evidence indicates that the Veteran's left carpal tunnel syndrome did not first manifest during active service.  In addition, she did not have characteristic manifestations sufficient to identify a chronic disease entity during service.  Although, she complained of joint pain at separation, the clinical evaluation was normal.
-
-The Board finds that the overall weight of the evidence is against granting service connection for left carpal tunnel syndrome.  No medical professional has ever suggested that the Veteran's left carpal tunnel syndrome was related to her military service, to include as secondary to service-connected disability, and the Veteran has not presented, identified, or alluded to the existence of any such medical evidence or opinion.  Furthermore, the VA examiners considered the Veteran's claims file, her contentions, the medical evidence of record, and conducted a complete physical examination, but concluded that the Veteran's left carpal tunnel syndrome was not incurred during active service nor caused or aggravated by service or service-connected disability.
-
-The Board has considered the Veteran's statements made in support of her claims; however, she has not demonstrated any specialized knowledge or expertise indicating she is capable of rendering a competent medical opinion on this determinative issue of causation.  Although lay persons are competent to provide opinions on some medical issues, see Kahana v. Shinseki, 24 Vet. App. 428, 435 (2011), as to the specific issues in this case, the diagnosis and etiology of right and left carpal tunnel syndrome and whether they were caused or aggravated by her service, this falls outside the realm or purview of common knowledge of a lay person.  Jandreau v. Nicholson, 492 F.3d 1372, 1377 n.4 (Fed. Cir. 2007).
-
-As the preponderance of the evidence is against these claims, the benefit-of-the-doubt doctrine does not apply, and these claims of entitlement to service connection for right and left carpal tunnel syndrome resultantly must be denied.
+Thus, given the probative opinion by the expert regarding the Veteran's schizophrenia and resolving all doubt in the Veteran's favor, the Board finds that service connection for an acquired psychiatric disorder, namely, schizophrenia is warranted.
 
 
 ORDER
 
-Entitlement to service connection for right carpal tunnel syndrome is denied.
+Service connection for schizophrenia is granted.
 
-Entitlement to service connection for left carpal tunnel syndrome is denied.
 
 
 
 ____________________________________________
-Nathaniel J. Doan
+KRISTI L. GUNN
 Veterans Law Judge, Board of Veterans' Appeals
 
-Department of Veterans Affairs
 
+
+Department of Veterans Affairs
