@@ -1,5 +1,5 @@
 from __future__ import division
-import config
+import luima_sbd.config as config
 import pycrfsuite
 import re
 import os
@@ -120,6 +120,6 @@ def get_token_length(token):
 
 def init_crf_model(model_type):
     tagger = pycrfsuite.Tagger()
-    model_path = os.path.join(config.DATA_DIR, model_type)
+    model_path = os.path.join(config.MODULE_DIR, config.DATA_DIR, model_type)
     tagger.open(model_path)
     return tagger

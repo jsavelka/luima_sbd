@@ -2,6 +2,7 @@
 TOKENIZATION_STRING = r'[A-z]+|\d+|[ \t\f]+|[\n\r\v]+|[^A-z\d\s]'
 
 # File paths
+MODULE_DIR = 'luima_sbd'
 DATA_DIR = 'data'
 SEN_MODEL = 'sbd_SEN.crfsuite'
 NSEN_MODEL = 'sbd_NSEN.crfsuite'
