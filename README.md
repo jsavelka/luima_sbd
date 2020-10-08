@@ -34,3 +34,10 @@ Copy this project directory to your project and import *sbd_utils.py*. From
 there you can call the *text2sentences(text, offsets=False)* function which
 expects a text as an argument. Setting the optional *offsets* argument to
 *True* indicates that you would like sentence offsets instead of the sentences.
+
+## Attribution
+
+We kindly ask you to cite the following paper in your work using the data set:
+
+
+> Savelka, Jaromir, Vern R. Walker, Matthias Grabmair and Kevin D. Ashley. "Sentence Boundary Detection in Adjudicatory Decisions in the United States." TAL 58.2 (2017).
