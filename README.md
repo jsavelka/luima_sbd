@@ -7,9 +7,7 @@
 * chardet
 
 ```
-sudo pip3 install python-crfsuite
-sudo pip3 install Flask
-sudo pip3 install chardet
+pip install -r requirements.txt
 ```
 
 
